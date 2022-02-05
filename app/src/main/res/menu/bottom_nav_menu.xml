@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_nav_clients"
+        android:title="Clients"
+        android:icon="@drawable/ic_baseline_person_24"
+        app:cnb_backgroundColor="#045de9"
+        app:cnb_iconColor="@color/white" />
+
+    />
+
+    <item
+        android:id="@+id/bottom_nav_transfer"
+        android:title="Transfer"
+        android:icon="@drawable/ic_baseline_payment_24"
+        app:cnb_backgroundColor="#045de9"
+        app:cnb_iconColor="@color/white" />
+
+
+
+</menu>
